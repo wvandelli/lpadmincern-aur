@@ -1,4 +1,5 @@
-# Maintainer: Kevin Franz Stehle <kevin dot franz dot stehle at cern dot ch>
+# Maintainer: Wainer Vandelli <wainer dot vandelli at gmail dot com>
+# Contributor : Kevin Franz Stehle <kevin dot franz dot stehle at cern dot ch>
 pkgname=lpadmincern
 pkgver=1.4.9
 pkgrel=1
