@@ -2,7 +2,7 @@
 # Contributor : Kevin Franz Stehle <kevin dot franz dot stehle at cern dot ch>
 pkgname=lpadmincern
 pkgver=1.4.9
-pkgrel=1
+pkgrel=2
 pkgdesc="CERN LDAP printer database client. Note: CERN IT does not provide official support for Arch Linux. Use at your own risk."
 url="https://linuxsoft.cern.ch/cern/centos/7/cern/x86_64/repoview/lpadmincern.html"
 arch=('any')
@@ -13,7 +13,7 @@ makedepends=('gzip' 'tar')
 conflicts=()
 replaces=()
 backup=()
-source=("https://linuxsoft.cern.ch/cern/alma/9/CERN/x86_64/Packages/lpadmincern-${pkgver}-1.al9.cern.noarch.rpm")
+source=("https://linuxsoft.cern.ch/cern/alma/9/CERN/x86_64/Packages/l/lpadmincern-${pkgver}-1.al9.cern.noarch.rpm")
 md5sums=('70dd526357fcf58605736b7028cc124d')
 
 package() {
